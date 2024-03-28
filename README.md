@@ -16,9 +16,9 @@ Neste [site](https://pypi.org/project/sweetviz/) você encontrará mais informa�
 
 Esta biblioteca gera uma webpage com os dados a serem analisados. Caso queira, pode colocar uma variável como **target** que os resultados serão levados em consideração tendo em vista este target.
 
-´´´
+```
 analyze_df = sweetviz.analyze([dataset, "df"], target_feat = 'Survived')
-´´´
+```
 
 ![image](https://github.com/Vinicius-github/auto_viz_eda/assets/146575176/faf42953-49fb-42b4-839a-dda3a88de90b)
 

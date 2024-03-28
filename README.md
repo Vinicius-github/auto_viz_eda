@@ -22,7 +22,7 @@ analyze_df = sweetviz.analyze([dataset, "df"], target_feat = 'Survived')
 
 ![image](https://github.com/Vinicius-github/auto_viz_eda/assets/146575176/faf42953-49fb-42b4-839a-dda3a88de90b)
 
-## sweetviz
+## autoviz
 Neste [site](https://pypi.org/project/autoviz/) você encontrará mais informações sobre esta biblioteca.
 
 Da mesma forma que a biblioteca anterior pode setar a variável target, a biblioteca autoviz também permite fazer este procedimento.
